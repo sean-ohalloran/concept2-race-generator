@@ -1,0 +1,73 @@
+{
+    "race_definition": {
+        "boats": [
+            {
+                "affiliation": "RCNE",
+                "class_name": "G",
+                "lane_number": 2,
+                "name": "Ulrich , Zerahn ",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HNRG",
+                "class_name": "G",
+                "lane_number": 3,
+                "name": "Reinert, Gerhard",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCNE",
+                "class_name": "G",
+                "lane_number": 4,
+                "name": "Beetz, Ralf",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSVS",
+                "class_name": "G",
+                "lane_number": 5,
+                "name": "Lentner, Bernhard",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "ERGO",
+                "class_name": "G",
+                "lane_number": 6,
+                "name": "Schuhn, Peter",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "c2_race_id": "",
+        "duration": 1800,
+        "duration_type": "time",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Masters A-H, männlich, 30 Min.",
+        "name_short": "short name",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1800,
+        "team_size": 1,
+        "time_cap": 0
+    }
+}

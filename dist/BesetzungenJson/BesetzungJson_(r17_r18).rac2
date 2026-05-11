@@ -1,0 +1,73 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 2000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Juniorinnen A U19, 2000m & Juniorinnen A U19, 2000m",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 2000,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "RG Eberbach",
+                "class_name": "LGW. bis 60 kg",
+                "lane_number": 1,
+                "name": "R\u00f6hling, Nina",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 3,
+                "name": "L\u00f6wer, Kim",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 4,
+                "name": "Gro\u00df, Amelie",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "-",
+                "lane_number": 5,
+                "name": "Ross, Charlotte",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Ruderverein Bad Wimpfen",
+                "class_name": "-",
+                "lane_number": 6,
+                "name": "Stephan, Julia",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

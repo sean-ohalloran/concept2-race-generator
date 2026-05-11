@@ -1,0 +1,86 @@
+{
+    "race_definition": {
+        "boats": [
+            {
+                "affiliation": "RCN",
+                "class_name": "",
+                "lane_number": 1,
+                "name": "Team_1",
+                "participants": [
+                    {
+                        "name": "Schork, Sophia"
+                    },
+                    {
+                        "name": "Brückmann, Mona"
+                    }
+                ]
+            },
+            {
+                "affiliation": "RGE",
+                "class_name": "",
+                "lane_number": 2,
+                "name": "Team_2",
+                "participants": [
+                    {
+                        "name": "Kunze, Lili"
+                    },
+                    {
+                        "name": "Snyman, Meaghan"
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 3,
+                "name": "Team_3",
+                "participants": [
+                    {
+                        "name": "Participant1"
+                    },
+                    {
+                        "name": "Participant2"
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 4,
+                "name": "Team_4",
+                "participants": [
+                    {
+                        "name": "Participant1"
+                    },
+                    {
+                        "name": "Participant2"
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 5,
+                "name": "Team_5",
+                "participants": [
+                    {
+                        "name": "Participant1"
+                    },
+                    {
+                        "name": "Participant2"
+                    }
+                ]
+            }
+        ],
+        "c2_race_id": "",
+        "duration": 5000,
+        "duration_type": "meters",
+        "event_name": "Rennen 29",
+        "handicap_enabled": false,
+        "name_long": "Doppel Frauen, 5000m",
+        "name_short": "short name",
+        "race_id": "",
+        "race_type": "team",
+        "split_value": 500,
+        "team_scoring": "avg",
+        "team_size": 2,
+        "time_cap": 0
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 1500,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Junioren B U17, 1500m & Junioren B U17, 1500m",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1500,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "WSV Schifferclub Neckarrems ",
+                "class_name": "Lgw. bis 67,5kg",
+                "lane_number": 1,
+                "name": "Schupp, Malthe",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "Lgw. bis 67,5kg",
+                "lane_number": 2,
+                "name": "Haag , Felix",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "-",
+                "lane_number": 4,
+                "name": "Schmiegelt, Adrian",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Schweinfurter Ruder-Club Franken",
+                "class_name": "-",
+                "lane_number": 5,
+                "name": "Waller, Julian",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "-",
+                "lane_number": 6,
+                "name": "Burkhart, Levin",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Stuttgart-Cannstatter RC",
+                "class_name": "-",
+                "lane_number": 7,
+                "name": "Gathmann, Tobias",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

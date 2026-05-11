@@ -1,0 +1,84 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 1800,
+        "duration_type": "time",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Masters A-H, m\u00e4nnlich, 30 Min.",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1800,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "Karlsruher Ruder-Verein Wiking",
+                "class_name": "C",
+                "lane_number": 1,
+                "name": "Blank, Hannes",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "C",
+                "lane_number": 2,
+                "name": "Fouque, Martin",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Heidelberger Ruderklub",
+                "class_name": "C",
+                "lane_number": 3,
+                "name": "Burger, Max",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC Neptun Neckarelz",
+                "class_name": "B",
+                "lane_number": 4,
+                "name": "Sch\u00f6nmann Fink, Matthias",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSV Schifferclub Neckarrems ",
+                "class_name": "D",
+                "lane_number": 5,
+                "name": "W\u00f6ppel, Stefan",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSV Schifferclub Neckarrems ",
+                "class_name": "F",
+                "lane_number": 6,
+                "name": "Lentner, Bernhard",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

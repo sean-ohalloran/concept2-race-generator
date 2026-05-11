@@ -1,0 +1,84 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 1000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Jungen U15, 1000m",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1000,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "RV Waldsee",
+                "class_name": "-",
+                "lane_number": 1,
+                "name": "Herrmann, Alexander",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Mannheimer RV \"Amicitia\"",
+                "class_name": "-",
+                "lane_number": 2,
+                "name": "von Watzdorf, Carl",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Stuttgart-Cannstatter RC",
+                "class_name": "-",
+                "lane_number": 3,
+                "name": "Kalmbach, Henning",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Schweinfurter Ruder-Club Franken",
+                "class_name": "-",
+                "lane_number": 4,
+                "name": "Jarad, Huzaifa",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "-",
+                "lane_number": 5,
+                "name": "Engel, Julian",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "-",
+                "lane_number": 6,
+                "name": "Melcher, Max",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "race_definition": {
+        "boats": [
+            {
+                "affiliation": "MARR",
+                "class_name": "LGW. bis 60 kg",
+                "lane_number": 1,
+                "name": "Hatzinger, Anik",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RGE",
+                "class_name": "LGW. bis 60 kg",
+                "lane_number": 2,
+                "name": "Kunze , Lili ",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HNRG",
+                "class_name": "-",
+                "lane_number": 6,
+                "name": "Pajk, Magdalena",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSVS",
+                "class_name": "-",
+                "lane_number": 7,
+                "name": "Krippner, Emma",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "MARC",
+                "class_name": "-",
+                "lane_number": 8,
+                "name": "Schultheis, Hannah",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "MARC",
+                "class_name": "-",
+                "lane_number": 9,
+                "name": "Schultheis, Hannah",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "c2_race_id": "",
+        "duration": 2000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Juniorinnen A U19, 2000m & Juniorinnen A U19, 2000m",
+        "name_short": "short name",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 2000,
+        "team_size": 1,
+        "time_cap": 0
+    }
+}

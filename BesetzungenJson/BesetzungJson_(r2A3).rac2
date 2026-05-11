@@ -1,0 +1,117 @@
+{
+    "race_definition": {
+        "boats": [
+            {
+                "affiliation": "RGSP",
+                "class_name": "D",
+                "lane_number": 1,
+                "name": "Sch\u00f6nung, Martin",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCNT",
+                "class_name": "D",
+                "lane_number": 2,
+                "name": "Fouque, Martin",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCNE",
+                "class_name": "D",
+                "lane_number": 3,
+                "name": "Finkenrath, Dirk",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "o.V.",
+                "class_name": "D",
+                "lane_number": 4,
+                "name": "Kruse,  Moritz",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "MRC",
+                "class_name": "D",
+                "lane_number": 5,
+                "name": "Jakubik, Gregor",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "MRVAM",
+                "class_name": "C",
+                "lane_number": 6,
+                "name": "Feigs, Florian",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "MRVAM",
+                "class_name": "C",
+                "lane_number": 7,
+                "name": "Vogt, Jan",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "TSVD",
+                "class_name": "B",
+                "lane_number": 8,
+                "name": "G\u00e4rttner, Tobias",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSVS",
+                "class_name": "A",
+                "lane_number": 9,
+                "name": "Friedrich, Silas",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "c2_race_id": "",
+        "duration": 1800,
+        "duration_type": "time",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Masters A-H, m\u00e4nnlich, 30 Min.",
+        "name_short": "short name",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1800,
+        "team_size": 1,
+        "time_cap": 0
+    }
+}

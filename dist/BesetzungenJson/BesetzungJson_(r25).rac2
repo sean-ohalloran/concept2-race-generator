@@ -1,0 +1,106 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 2000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Masters A-H, m\u00e4nnlich, 2000m",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 2000,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "USV TU Dresden",
+                "class_name": "I",
+                "lane_number": 1,
+                "name": "Sommer, Christian",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Fitness Oase in Regen",
+                "class_name": "F",
+                "lane_number": 2,
+                "name": "K\u00f6hler, Bernhard",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "D",
+                "lane_number": 3,
+                "name": "Gr\u00fcn, Michael",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "D",
+                "lane_number": 4,
+                "name": "Angelakov, David",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC Neptun Neckarelz",
+                "class_name": "E",
+                "lane_number": 5,
+                "name": "Marx, Johannes",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC Neptun Neckarelz",
+                "class_name": "B",
+                "lane_number": 6,
+                "name": "Sch\u00f6nmann Fink, Matthias",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Ruderverein Bad Wimpfen",
+                "class_name": "A",
+                "lane_number": 7,
+                "name": "H\u00e4fner, Christian",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "A",
+                "lane_number": 8,
+                "name": "Wei\u00df, Fabian",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

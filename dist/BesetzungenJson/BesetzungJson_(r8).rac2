@@ -1,0 +1,128 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 1000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "M\u00e4dchen U15, 1000m",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1000,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "-",
+                "lane_number": 1,
+                "name": "Wei\u00df, Annika",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Heidelberger Ruderklub",
+                "class_name": "-",
+                "lane_number": 2,
+                "name": "Nake, Antonia",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Rudergesellschaft Heidelberg",
+                "class_name": "-",
+                "lane_number": 3,
+                "name": "Holl\u00e4nder, Elisa",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Rudergesellschaft Heidelberg",
+                "class_name": "-",
+                "lane_number": 4,
+                "name": "Heterle, Emilie",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 5,
+                "name": "Stirner, Emilie",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Rudergesellschaft Heidelberg",
+                "class_name": "-",
+                "lane_number": 6,
+                "name": "Michel, Lene",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "-",
+                "lane_number": 7,
+                "name": "Mayer, Lilly",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Stuttgart-Cannstatter RC",
+                "class_name": "-",
+                "lane_number": 8,
+                "name": "Oppold, Marlene",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Mannheimer RV \"Amicitia\"",
+                "class_name": "-",
+                "lane_number": 9,
+                "name": "Sammler, Melisande",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Rudergesellschaft Heidelberg",
+                "class_name": "-",
+                "lane_number": 10,
+                "name": "G\u00fcrth, Mona",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

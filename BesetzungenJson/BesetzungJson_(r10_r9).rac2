@@ -1,0 +1,73 @@
+{
+    "race_definition": {
+        "boats": [
+            {
+                "affiliation": "RCNT",
+                "class_name": "-",
+                "lane_number": 6,
+                "name": "Fick, Erik",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCNT",
+                "class_name": "-",
+                "lane_number": 7,
+                "name": "Popowicz, Joel",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCNT",
+                "class_name": "Lgw. bis 55 kg",
+                "lane_number": 1,
+                "name": "Werner, Leo",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCNT",
+                "class_name": "Lgw. bis 55 kg",
+                "lane_number": 2,
+                "name": "Bartel, Neo",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCNT",
+                "class_name": "Lgw. bis 55 kg",
+                "lane_number": 3,
+                "name": "Knopf, Konrad",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "c2_race_id": "",
+        "duration": 240,
+        "duration_type": "time",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Jungen U15, 1000m & Jungen U15, 1000m",
+        "name_short": "short name",
+        "race_id": "",
+        "race_type": "individual calorie score",
+        "split_value": 60,
+        "team_size": 1,
+        "time_cap": 0
+    }
+}

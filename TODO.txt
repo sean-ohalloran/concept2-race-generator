@@ -1,0 +1,2 @@
+- in renn-Excel-Datei eine Spalte mit vereinsnamenkürzel eintragen
+(diese automatisch erstellen lassen)

@@ -1,0 +1,133 @@
+{
+    "race_definition": {
+        "boats": [
+            {
+                "affiliation": "RVBW",
+                "class_name": "E",
+                "lane_number": 1,
+                "name": "Possemeyer, Ute",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRK",
+                "class_name": "B",
+                "lane_number": 2,
+                "name": "Jansen, Kathrin",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRK",
+                "class_name": "A",
+                "lane_number": 3,
+                "name": "Kleveman, Gilian",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "LAUR",
+                "class_name": "A",
+                "lane_number": 4,
+                "name": "Häfner, Linda",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RGWE",
+                "class_name": "E",
+                "lane_number": 5,
+                "name": "Krämer, Dagmar",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 6,
+                "name": "Lane_6",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 7,
+                "name": "Lane_7",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 8,
+                "name": "Lane_8",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 9,
+                "name": "Lane_9",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 10,
+                "name": "Lane_10",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 11,
+                "name": "Lane_11",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "c2_race_id": "",
+        "duration": 1000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Masters A-H, weiblich, 1000m",
+        "name_short": "short name",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 500,
+        "team_size": 1,
+        "time_cap": 0
+    }
+}

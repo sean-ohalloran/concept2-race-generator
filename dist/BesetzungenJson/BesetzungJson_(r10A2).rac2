@@ -1,0 +1,95 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 1000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Jungen U15, 1000m",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1000,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "RV Waldsee",
+                "class_name": "-",
+                "lane_number": 1,
+                "name": "Hildebrand, Nico",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Rudergesellschaft Heidelberg",
+                "class_name": "-",
+                "lane_number": 2,
+                "name": "Gute, Oskar",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 3,
+                "name": "Gering, Simon",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Mannheimer RV \"Amicitia\"",
+                "class_name": "-",
+                "lane_number": 4,
+                "name": "Gl\u00e4ser, Simon",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Heidelberger Ruderklub",
+                "class_name": "-",
+                "lane_number": 5,
+                "name": "Kokes, Tim",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSV Schifferclub Neckarrems ",
+                "class_name": "-",
+                "lane_number": 6,
+                "name": "Wagner, Philippe",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSV Schifferclub Neckarrems ",
+                "class_name": "-",
+                "lane_number": 7,
+                "name": "Theurer, Moritz",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

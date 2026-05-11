@@ -1,0 +1,84 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 1500,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Juniorinnen B U17, 1500m",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1500,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 1,
+                "name": "Bitz, Amelie",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Schweinfurter Ruder-Club Franken",
+                "class_name": "-",
+                "lane_number": 2,
+                "name": "N\u00fcchter, Fine-Marie",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 3,
+                "name": "Schmidt, Johanna",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RG Eberbach",
+                "class_name": "-",
+                "lane_number": 4,
+                "name": "Juschka, Kathrin",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 5,
+                "name": "Hentschel, Lina",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "-",
+                "lane_number": 6,
+                "name": "Gr\u00fcn, Maya",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

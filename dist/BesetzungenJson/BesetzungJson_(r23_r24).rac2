@@ -1,0 +1,84 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 2000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Senioren A, 2000m & Senioren A, 2000m",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 2000,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "Stuttgarter RG",
+                "class_name": "LGW. bis 75 kg",
+                "lane_number": 1,
+                "name": "Bogensch\u00fctz, Benjamin",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "LGW. bis 75 kg",
+                "lane_number": 2,
+                "name": "Schneckenberger, Lukas",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Schweinfurter Ruder-Club Franken",
+                "class_name": "LGW. bis 75 kg",
+                "lane_number": 3,
+                "name": "Remel\u00e9, Friedrich",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "LGW. bis 75 kg",
+                "lane_number": 4,
+                "name": "Stein, Jonas",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 6,
+                "name": "Killinger, Cornelius",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 7,
+                "name": "Schmidt, Jonas",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

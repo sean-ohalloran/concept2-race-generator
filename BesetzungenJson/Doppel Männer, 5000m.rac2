@@ -1,0 +1,84 @@
+{
+    "race_definition": {
+        "boats": [
+            {
+                "class_name": "",
+                "lane_number": 1,
+                "name": "Team_1",
+                "participants": [
+                    {
+                        "name": "Ehls, Philipp"
+                    },
+                    {
+                        "name": "Hamini, Bilal"
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 2,
+                "name": "Team_2",
+                "participants": [
+                    {
+                        "name": "Held, Noel"
+                    },
+                    {
+                        "name": "Elfers, Jochen"
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 3,
+                "name": "Team_3",
+                "participants": [
+                    {
+                        "name": "Reiter, Lucas"
+                    },
+                    {
+                        "name": "Schneider, Luis"
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 4,
+                "name": "Team_4",
+                "participants": [
+                    {
+                        "name": "Schmidt, Jonas"
+                    },
+                    {
+                        "name": "Gering, Simon"
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 5,
+                "name": "Team_5",
+                "participants": [
+                    {
+                        "name": "Keller, Sebastian"
+                    },
+                    {
+                        "name": "Matigeswki, Bodo"
+                    }
+                ]
+            }
+        ],
+        "c2_race_id": "",
+        "duration": 5000,
+        "duration_type": "meters",
+        "event_name": "Rennen 30",
+        "handicap_enabled": false,
+        "name_long": "Doppel Männer, 5000m",
+        "name_short": "short name",
+        "race_id": "",
+        "race_type": "team",
+        "split_value": 500,
+        "team_scoring": "avg",
+        "team_size": 2,
+        "time_cap": 0
+    }
+}

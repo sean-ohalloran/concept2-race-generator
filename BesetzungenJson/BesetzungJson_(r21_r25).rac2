@@ -1,0 +1,40 @@
+{
+    "race_definition": {
+        "boats": [
+            {
+                "affiliation": "HNRG",
+                "class_name": "LGW. bis 61 kg",
+                "lane_number": 1,
+                "name": "Brückmann, Mona",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCIN",
+                "class_name": "F",
+                "lane_number": 4,
+                "name": "Engel, Marion",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "c2_race_id": "",
+        "duration": 2000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Seniorinnen A, 2000m & Masters A-H, weiblich, 2000m",
+        "name_short": "short name",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 2000,
+        "team_size": 1,
+        "time_cap": 0
+    }
+}

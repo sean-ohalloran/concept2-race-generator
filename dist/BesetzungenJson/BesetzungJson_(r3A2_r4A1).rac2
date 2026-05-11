@@ -1,0 +1,117 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 1000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Jungen U14, 1000m & Jungen U14, 1000m",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1000,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "Lgw. bis 50 kg",
+                "lane_number": 1,
+                "name": "Hammer, Maximilian",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "Lgw. bis 50 kg",
+                "lane_number": 2,
+                "name": "Rebmann, Morino",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "Lgw. bis 50 kg",
+                "lane_number": 3,
+                "name": "Rebmann, Florentin",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSV Schifferclub Neckarrems ",
+                "class_name": "Lgw. bis 50 kg",
+                "lane_number": 4,
+                "name": "Sigloch, Malte",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 6,
+                "name": "Bittermann, Alfons",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Rudergesellschaft Heidelberg",
+                "class_name": "-",
+                "lane_number": 7,
+                "name": "Krause, Carl",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Mannheimer RV \"Amicitia\"",
+                "class_name": "-",
+                "lane_number": 8,
+                "name": "Nestor, David",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Heidelberger Ruderklub",
+                "class_name": "-",
+                "lane_number": 9,
+                "name": "Schilling, Felix",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RV Waldsee",
+                "class_name": "-",
+                "lane_number": 10,
+                "name": "Balke, Frederik",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

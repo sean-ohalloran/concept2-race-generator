@@ -1,0 +1,117 @@
+{
+    "race_definition": {
+        "boats": [
+            {
+                "affiliation": "HNRG",
+                "class_name": "G",
+                "lane_number": 1,
+                "name": "Reinert, Ingrid",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCIN",
+                "class_name": "F",
+                "lane_number": 2,
+                "name": "Engel, Marion",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RGSP",
+                "class_name": "E",
+                "lane_number": 3,
+                "name": "M\u00fclberger, Gabriele",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSVS",
+                "class_name": "E",
+                "lane_number": 4,
+                "name": "Munke, Steffi",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSVS",
+                "class_name": "D",
+                "lane_number": 5,
+                "name": "W\u00f6ppel, Stefanie",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCNE",
+                "class_name": "D",
+                "lane_number": 6,
+                "name": "Kn\u00f6rzer , Michaela",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCNE",
+                "class_name": "D",
+                "lane_number": 7,
+                "name": "Sauter, Maren",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HNRG",
+                "class_name": "B",
+                "lane_number": 8,
+                "name": "Meinike, Katrin",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCNE",
+                "class_name": "A",
+                "lane_number": 9,
+                "name": "Schork, Sophia",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "c2_race_id": "",
+        "duration": 1800,
+        "duration_type": "time",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Masters A-H, weiblich, 30 Min.",
+        "name_short": "short name",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1800,
+        "team_size": 1,
+        "time_cap": 0
+    }
+}

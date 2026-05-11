@@ -1,0 +1,106 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 1800,
+        "duration_type": "time",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Masters A-H, weiblich, 30 Min.",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1800,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "F",
+                "lane_number": 1,
+                "name": "Reinert, Ingrid",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "E",
+                "lane_number": 2,
+                "name": "Schmidt, Henriette",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Sub7 IRC",
+                "class_name": "E",
+                "lane_number": 3,
+                "name": "Young, Susan",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "D",
+                "lane_number": 4,
+                "name": "Breitenb\u00fccher, Heike",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "C",
+                "lane_number": 5,
+                "name": "Schmidt, Uta",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "C",
+                "lane_number": 6,
+                "name": "Vogt, Antje",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSV Schifferclub Neckarrems ",
+                "class_name": "D",
+                "lane_number": 7,
+                "name": "Munke, Steffi",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSV Schifferclub Neckarrems ",
+                "class_name": "C",
+                "lane_number": 8,
+                "name": "W\u00f6ppel, Stefanie",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

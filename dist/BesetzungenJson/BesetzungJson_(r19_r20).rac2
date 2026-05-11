@@ -1,0 +1,117 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 2000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Junioren A U19, 2000m & Junioren A U19, 2000m",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 2000,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "LGW. bis 70 kg",
+                "lane_number": 1,
+                "name": "Walz, Jona",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RG Eberbach",
+                "class_name": "LGW. bis 70 kg",
+                "lane_number": 2,
+                "name": "Weber, Nils",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "-",
+                "lane_number": 3,
+                "name": "Bachmann, Julius",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RG Eberbach",
+                "class_name": "-",
+                "lane_number": 4,
+                "name": "Hamzaoui, Latif",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 5,
+                "name": "Spandel, Maximilian",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RG Eberbach",
+                "class_name": "-",
+                "lane_number": 6,
+                "name": "Walter, Miron",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 7,
+                "name": "Tafelmaier, Moritz",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 8,
+                "name": "Keefer, Nicolai",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 9,
+                "name": "Burkert, Niklas",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

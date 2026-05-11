@@ -1,0 +1,73 @@
+{
+    "race_definition": {
+        "boats": [
+            {
+                "affiliation": "MARR",
+                "class_name": "-",
+                "lane_number": 1,
+                "name": "Schnurr, Gregor",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "MARR",
+                "class_name": "-",
+                "lane_number": 2,
+                "name": "Zahn , Jesko",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "MARR",
+                "class_name": "-",
+                "lane_number": 3,
+                "name": "Böker, Fabian",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HNRG",
+                "class_name": "-",
+                "lane_number": 4,
+                "name": "Müller, Marlo",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HNRG",
+                "class_name": "-",
+                "lane_number": 5,
+                "name": "Zimnik, Samuel",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "c2_race_id": "",
+        "duration": 1500,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Junioren B U17, 1500m",
+        "name_short": "short name",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1500,
+        "team_size": 1,
+        "time_cap": 0
+    }
+}

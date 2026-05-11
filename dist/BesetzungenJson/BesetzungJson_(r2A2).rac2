@@ -1,0 +1,117 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 1800,
+        "duration_type": "time",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Masters A-H, m\u00e4nnlich, 30 Min.",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1800,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "RC Neptun Neckarelz",
+                "class_name": "E",
+                "lane_number": 11,
+                "name": "Marx, Johannes",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "E",
+                "lane_number": 12,
+                "name": "Reinert, Gerhard",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "ErgoRudern Saarlouis",
+                "class_name": "D",
+                "lane_number": 13,
+                "name": "Marion, Markus",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "D",
+                "lane_number": 14,
+                "name": "Gr\u00fcnewald, Christoph",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "D",
+                "lane_number": 15,
+                "name": "Rottler, Christoph",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "D",
+                "lane_number": 16,
+                "name": "Gr\u00fcn, Michael",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "D",
+                "lane_number": 17,
+                "name": "Demmer, Patrick",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "D",
+                "lane_number": 18,
+                "name": "Bischoff, Rene\u00b4",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "D",
+                "lane_number": 19,
+                "name": "Veigel, Wolfram",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

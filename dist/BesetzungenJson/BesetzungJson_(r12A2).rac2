@@ -1,0 +1,73 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 1500,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Juniorinnen B U17, 1500m",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1500,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "-",
+                "lane_number": 1,
+                "name": "Melin, Neval",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RG Eberbach",
+                "class_name": "-",
+                "lane_number": 2,
+                "name": "Berner, Sandra",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RV Waldsee",
+                "class_name": "-",
+                "lane_number": 3,
+                "name": "Nothelfer, Alisa",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RG Eberbach",
+                "class_name": "-",
+                "lane_number": 4,
+                "name": "Snyman, Meaghan",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "-",
+                "lane_number": 5,
+                "name": "Gerbershagen, Mira",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

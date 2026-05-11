@@ -1,0 +1,128 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 1800,
+        "duration_type": "time",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Masters A-H, m\u00e4nnlich, 30 Min.",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1800,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "RC Neptun Neckarelz",
+                "class_name": "J",
+                "lane_number": 1,
+                "name": "Gocke, Eberhard",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC Neptun Neckarelz",
+                "class_name": "I",
+                "lane_number": 2,
+                "name": "Schulthei\u00df, G\u00fcnther",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC Neptun Neckarelz",
+                "class_name": "J",
+                "lane_number": 3,
+                "name": "Diem, Werner",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Ruderverein Bad Wimpfen",
+                "class_name": "H",
+                "lane_number": 4,
+                "name": "Schmiedeknecht, Helmut",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "H",
+                "lane_number": 5,
+                "name": "Vollmer, Gerhard",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "H",
+                "lane_number": 6,
+                "name": "Schmidt, Rolf",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "G",
+                "lane_number": 7,
+                "name": "Rentz, J\u00fcrgen",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "SSG Bensheim",
+                "class_name": "F",
+                "lane_number": 8,
+                "name": "Klinge, Achim",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Fitness Oase in Regen",
+                "class_name": "F",
+                "lane_number": 9,
+                "name": "K\u00f6hler, Bernhard",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "ErgoRudern Saarlouis",
+                "class_name": "F",
+                "lane_number": 10,
+                "name": "Schuhn, Peter",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

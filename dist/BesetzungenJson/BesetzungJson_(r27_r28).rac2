@@ -1,0 +1,128 @@
+{
+    "race_definition": {
+        "c2_race_id": "",
+        "duration": 1000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "Masters A-H, weiblich, 1000m & Masters A-H, m\u00e4nnlich, 1000m",
+        "name_short": "",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 1000,
+        "team_size": 1,
+        "time_cap": 0,
+        "boats": [
+            {
+                "affiliation": "Fitness Oase in Regen",
+                "class_name": "F",
+                "lane_number": 1,
+                "name": "K\u00f6hler, Bernhard",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC Neptun Neckarelz",
+                "class_name": "J",
+                "lane_number": 2,
+                "name": "Gocke, Eberhard",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Ruderverein Bad Wimpfen",
+                "class_name": "H",
+                "lane_number": 3,
+                "name": "Schmiedeknecht, Helmut",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "F",
+                "lane_number": 4,
+                "name": "M\u00fcnzing, Bernhard",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "USV TU Dresden",
+                "class_name": "J",
+                "lane_number": 5,
+                "name": "Kunz, Gert",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRG Schwaben",
+                "class_name": "D",
+                "lane_number": 6,
+                "name": "\u00d6ynhausen, J\u00f6rg",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "D",
+                "lane_number": 7,
+                "name": "Heszler, Peter",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Hanauer Rudergesellschaft 1879",
+                "class_name": "C",
+                "lane_number": 8,
+                "name": "Arnold, Frank",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "Marbacher Ruderverein",
+                "class_name": "C",
+                "lane_number": 9,
+                "name": "Rebmann, Sebastian",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RC N\u00fcrtingen",
+                "class_name": "A",
+                "lane_number": 10,
+                "name": "Aydin, Semih",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

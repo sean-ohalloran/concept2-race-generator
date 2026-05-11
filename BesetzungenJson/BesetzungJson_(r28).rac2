@@ -1,0 +1,138 @@
+{
+    "race_definition": {
+        "boats": [
+            {
+                "affiliation": "RCNE",
+                "class_name": "K",
+                "lane_number": 1,
+                "name": "Gocke, Eberhard",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RVBW",
+                "class_name": "I",
+                "lane_number": 2,
+                "name": "Schmiedeknecht, Helmut",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "HRK",
+                "class_name": "E",
+                "lane_number": 3,
+                "name": "Christian, Schyr",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "FRGG",
+                "class_name": "E",
+                "lane_number": 4,
+                "name": "Ringer, Joachim ",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSGK",
+                "class_name": "D",
+                "lane_number": 5,
+                "name": "Schader, Helger",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "WSGK",
+                "class_name": "C",
+                "lane_number": 6,
+                "name": "Reith, Thomas ",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "MRVAM",
+                "class_name": "C",
+                "lane_number": 7,
+                "name": "Vogt, Jan",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RCNE",
+                "class_name": "A",
+                "lane_number": 8,
+                "name": "Novak, Edvin ",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "RVBW",
+                "class_name": "A",
+                "lane_number": 9,
+                "name": "Berg, Jens",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "affiliation": "o.V.",
+                "class_name": "F",
+                "lane_number": 10,
+                "name": "Post, Andreas",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            },
+            {
+                "class_name": "",
+                "lane_number": 11,
+                "name": "Lane_11",
+                "participants": [
+                    {
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "c2_race_id": "",
+        "duration": 2000,
+        "duration_type": "meters",
+        "event_name": "Ergocup",
+        "handicap_enabled": false,
+        "name_long": "BesetzungJson_(r28)-1.rac",
+        "name_short": "short name",
+        "race_id": "",
+        "race_type": "individual",
+        "split_value": 500,
+        "team_size": 1,
+        "time_cap": 0
+    }
+}
