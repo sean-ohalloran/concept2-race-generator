@@ -23,9 +23,9 @@ venv\Scripts\activate
 
 -----------------------------------------------
 todo:
-- besseres Error-Handling
+- besseres Errorhandling
 - testing
-- uebersichtlichkeit und Einheitlichkeit
+- Uebersichtlichkeit und Einheitlichkeit
 
 
 
